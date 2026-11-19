@@ -140,6 +140,11 @@ reports/           检索评测报告
 
 语料以 CC BY 4.0 方式标注，详见 [`data/SOURCES.md`](data/SOURCES.md)。
 
+## 许可证
+
+- **代码**：MIT License，详见 [`LICENSE`](LICENSE)。
+- **语料**：`data/docs/` 下的学习用合成文档按 CC BY 4.0 标注，详见 [`data/SOURCES.md`](data/SOURCES.md)。
+
 ## 局限与下一步
 
 - 当前只做了 section-level dense retrieval，没有混合关键词检索，也没有 reranker。
