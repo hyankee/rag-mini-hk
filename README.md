@@ -1,5 +1,7 @@
 # RAG Mini HK
 
+![tests](https://github.com/hyankee/rag-mini-hk/actions/workflows/test.yml/badge.svg)
+
 一个可以直接运行、也方便讲清楚的小型 RAG 工程：
 
 **Markdown 文档 → 按章节切片 → BGE 向量化 → Chroma 余弦检索 → 带引用的回答 / 无答案拒答 → 固定题目评测 → FastAPI 单页 Demo**
